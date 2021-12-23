@@ -1,9 +1,9 @@
 # Python Program to find roots of a Quadratic Equation
 import math
 
-a = int(input("Please Enter a Value of a Quadratic Equation : "))
-b = int(input("Please Enter b Value of a Quadratic Equation : "))
-c = int(input("Please Enter c Value of a Quadratic Equation : "))
+a = int(input("Please Enter a Value of the Quadratic Equation : "))
+b = int(input("Please Enter b Value of the Quadratic Equation : "))
+c = int(input("Please Enter c Value of the Quadratic Equation : "))
 
 discriminant = (b * b) - (4 * a * c)
 
